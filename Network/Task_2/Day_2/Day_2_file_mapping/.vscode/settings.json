@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.vue": "vue",
+        "cstring": "cpp",
+        "cstdint": "cpp"
+    }
+}

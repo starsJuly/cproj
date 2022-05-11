@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.vue": "vue",
+        "time.h": "c",
+        "unistd.h": "c"
+    }
+}
